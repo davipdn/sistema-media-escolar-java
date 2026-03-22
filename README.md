@@ -36,21 +36,6 @@ Este projeto consiste em uma aplicação Java simples que permite a um usuário 
 5. Digite as 4 notas quando solicitado
 6. Visualize sua média e status final
 
-##  ▶️ Como Executar
-
-1. Certifique-se de ter o Java 21 instalado em sua máquina
-2. Compile o arquivo Java:
-   ```bash
-   javac src/applications/NotaAluno.java
-   ```
-3. Execute a aplicação:
-   ```bash
-   java applications.NotaAluno
-   ```
-4. Faça login usando as credenciais fornecidas
-5. Digite as 4 notas quando solicitado
-6. Visualize sua média e status final
-
 ## 📈 Possíveis Melhorias
 
 - Implementar sistema de usuários múltiplos
@@ -71,5 +56,3 @@ Projeto desenvolvido como exercício de lógica de programação em Java.
 - Java SE (versão 21)
 - Scanner para entrada de dados
 - Estruturas condicionais e loops
-
-## 📂 Estrutura do Projeto
